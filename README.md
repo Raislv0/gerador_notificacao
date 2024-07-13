@@ -1,3 +1,4 @@
+![1000076815](https://github.com/user-attachments/assets/9427208b-914a-4080-a83e-529935bf441c)
 Gerador de Notificação
 
 Feito em Python 3.6, utilizando os módulos openpyxl e python-docx.
